@@ -70,25 +70,6 @@ html{
     border: 10px solid  rgb(8, 57, 58);
     /* display:flex; */
 }
-/* .Fdiv{
-height: 610px;
-width: 500px;
-position: relative;
-
-}
-
-.Sdiv{
- height: 610px;
- width: 500px;
- position: relative;
-}
-
-.Tdiv{
- height: 610px;
- width: 500px;
- position: relative;
-} */
-
 .logo{
     top: 10%;
     position: absolute;
